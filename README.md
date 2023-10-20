@@ -1,6 +1,6 @@
 # To-Do List
 
-![Alt text](images/demo.png)
+![demo](https://github.com/karanrainavaar/To-Do-List/assets/147860043/0007fc54-9719-4eff-b2e2-f18fed80719f)
 
 ## Introduction
 A simple web-based to-do list application to help you keep track of tasks and stay organized.
